@@ -1,0 +1,24 @@
+p{
+    text-align: justify;
+    text-justify: inter-word;
+}
+h3{
+    color: #177E89;
+}
+.colorCool{
+    color: #08605F;
+}
+.letraPequeña{
+    font-size: xx-small;
+}
+h1{
+    font-weight: bold;
+    color: #08605F;
+}
+
+.formStyle{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+}
